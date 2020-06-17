@@ -1,5 +1,5 @@
 # Data-Science
-This is a Group Project, by Himanshu Sharma, Jayesh Soni and Kabir Pal
-18EJIEC012 - HIMANSHU SHARMA
-18EJIEC014 - JAYESH SONI
+This is a Group Project by 
+18EJIEC012 - HIMANSHU SHARMA,
+18EJIEC014 - JAYESH SONI and
 18EJIEC016 - KABIR PAL
